@@ -1,3 +1,3 @@
-# Piano Polyphonic Music Generation
-Piano Polyphonic Music Generation using Deep Learning Transformer Models
+# Piano Music Generation
+Piano Music Generation with Deep Learning Transformer Models
 ## Currently Under Construction, Stay Tuned!
