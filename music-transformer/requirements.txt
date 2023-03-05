@@ -39,7 +39,7 @@ future==0.17.1
 gast==0.2.2
 git-url-parse==1.2.2
 gitdb2==2.0.5
-GitPython==2.1.11
+GitPython==3.1.30
 google-pasta==0.1.6
 grandalf==0.6
 grpcio==1.21.1
