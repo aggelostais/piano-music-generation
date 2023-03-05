@@ -35,7 +35,7 @@ dvc==0.50.1
 entrypoints==0.3
 Flask==1.0.3
 funcy==1.12
-future==0.17.1
+future==0.18.3
 gast==0.2.2
 git-url-parse==1.2.2
 gitdb2==2.0.5
