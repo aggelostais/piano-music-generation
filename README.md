@@ -1,5 +1,4 @@
 # Piano Music Generation 
-### Piano Music Generation with Deep Learning Transformer Models
 
 ## About
 This repository contains the code for my Master's Thesis project "Piano Music Generation using Deep Learning Transformer Models", which was completed at the School of Electrical & Computer Engineering of the National Technical University of Athens (ECE NTUA).
