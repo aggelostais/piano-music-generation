@@ -42,7 +42,7 @@ gitdb2==2.0.5
 GitPython==3.1.30
 google-pasta==0.1.6
 grandalf==0.6
-grpcio==1.21.1
+grpcio==1.53.0
 gunicorn==19.9.0
 h5py==2.9.0
 humanize==0.5.1
